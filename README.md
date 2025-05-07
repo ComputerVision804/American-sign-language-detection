@@ -1,6 +1,8 @@
 # American-sign-language-detection
 🤟 Real-Time ASL Detection using Deep Learning 🎥🧠
 This project implements a real-time American Sign Language (ASL) alphabet recognition system using a custom-trained deep learning model with OpenCV and TensorFlow/Keras. The model was trained on a dataset of 3000 images per class (A-Z), resized to 200x200 pixels for optimal performance.
+DataSet:
+https://www.kaggle.com/datasets
 
 🚀 Features
 📷 Live camera detection of ASL hand signs.
@@ -53,7 +55,8 @@ project/
 │   └── asl_model.h5
 ├── cam.py
 ├── train_model.py
-└── ...
+└── ...!(https://github.com/user-attachments/assets/033f99c2-9bcd-48fe-bbbc-140546fa4d3f)
+
 💡 Future Work
 Add support for dynamic gestures (e.g., "hello", "thank you").
 
